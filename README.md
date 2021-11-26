@@ -24,11 +24,12 @@ Here are several links to help you get started:
 
 - [Install mysql12](https://www.npmjs.com/package/mysql2)
 - [Install SQl](https://www.npmjs.com/package/sequelize)
-
 - [Install express handlebars](https://www.npmjs.com/package/express-handlebars)
 
 ## Built with
 <img src= "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src= "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+<img src= "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
  
 
 
